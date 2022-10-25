@@ -13,3 +13,4 @@ https://github.com/Abdullokh3/AI_Application_mid-term/blob/main/week_7_Lab_1.ipy
 https://github.com/Abdullokh3/AI_Application_mid-term/blob/main/week_7_Lab_2.ipynb This is a link for week 7 lab session 2. In this lab session we imported all the necessary libraries and we also imported the data. we gave batch size and and epoch size whereas, the data was downloaded from the torch Library. We also defined what is the test and what is the train data then we added convolutional layers, the size was 3x3 which means this is a multiplication with 3 by 3 size matrix. ReLu was the activation. In order to train the model we have to give the necessary weights. We defined the loss function, optimizer and finally trained the model.
 
 week_9
+https://github.com/Abdullokh3/AI_Application/blob/main/week_9.ipynb
