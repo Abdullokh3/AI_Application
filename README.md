@@ -14,3 +14,6 @@ https://github.com/Abdullokh3/AI_Application_mid-term/blob/main/week_7_Lab_2.ipy
 
 week_9
 https://github.com/Abdullokh3/AI_Application/blob/main/week_9.ipynb
+
+week_9_Lab2
+https://github.com/Abdullokh3/AI_Application/blob/main/week_9_Lab2.ipynb
