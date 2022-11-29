@@ -28,4 +28,4 @@ week_10_lab_3
 https://github.com/Abdullokh3/AI_Application/blob/main/Week_10_Lab_3.ipynb
 
 week_11
-https://github.com/Abdullokh3/AI_Application/blob/main/Lab_11_1.ipynb
+https://github.com/Abdullokh3/AI_Application/blob/main/Week_11_.ipynb
